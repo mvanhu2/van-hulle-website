@@ -1,0 +1,12 @@
+---
+title: "Home"
+format: html
+---
+
+# Michael P. Van Hulle
+
+**Urban governance scholar | Former litigator | Institutional enthusiast**
+
+Welcome to my academic website. I'm a PhD candidate in Public Administration at the University of Illinois Chicago. My research explores how contracts, networks, and institutions shape authority and collective action in cities—especially when it comes to service delivery and public finance. Before entering academia, I litigated corporate governance disputes and asylum claims in New York.
+
+Use the navigation above to find my full CV or learn more about me.
