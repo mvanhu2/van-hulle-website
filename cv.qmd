@@ -1,0 +1,65 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+# Michael P. Van Hulle
+
+📫 mvanhu2@uic.edu  
+📞 (973) 204-0765  
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-van-hulle)
+
+---
+
+PROFILE
+Scholar of urban governance, institutional analysis, and intergovernmental collaboration, with a background in law, economics, and public administration. My research investigates how contracts, rules, and network structure authority and collective action—especially within cities. I bring doctrinal fluency and field-tested methods to bear on practical challenges in public finance, urban service delivery, and organizational design. Former litigator; current architect of reproducible, policy-relevant tools.
+EDUCATION
+University of Illinois Chicago (UIC) – Ph.D. Public Administration, Expected 2026
+Fields: Governance Networks, Urban Policy, Institutional Analysis
+University of Texas at Austin – M.A. Economics, 2021
+UCLA School of Law – J.D., 2011
+Honors: Michael T. Masin Scholar (Top 12 GPA after 1L)
+University of Pennsylvania – B.A. Economics, Mathematics, and Political Science, 2008
+ACADEMIC PUBLICATIONS
+Van Hulle, M. P., & Carr, J. B. (2024). Contracts for public services are embedded in relationships: Evaluating incomplete contracts and monitoring through relational contracting. In C. G. Reddick & T. Demir (Eds.), Handbook of Public Service Delivery (pp. 394–415). Edward Elgar Publishing. https://www.elgaronline.com/view/book/9781035315314/chapter23.xml
+CONFERENCE PRESENTATIONS
+Van Hulle, M. P., Weber, R., Drucker, J., & Wilbur-Mujtaba, A. (2025, July). The push-and-pull of property tax relief: Who pays for exemptions and incentives? Paper presented at [Conference Name], [Location].
+POLICY REPORTS & PUBLIC-FACING RESEARCH
+UIC-CMAP. (2023). Homestead Exemptions in Cook County: Policy and Practice. CMAP-UIC White Paper.
+UIC-CMAP. (2024). Addendum to Homestead Exemptions Report: Legislative and Administrative Developments. CMAP-UIC White Paper.
+(*Forthcoming CMAP report – in preparation*)
+RESEARCH TOOLS AND DATASETS
+Iowa §28E Agreement Coding Manual (2023). Authored a robust, field-tested typology of intergovernmental agreement complexity now used by institutional researchers and analysts. Repository publication forthcoming.
+RESEARCH EXPERIENCE
+Research Assistant, Networks & Governance Lab, UIC — Jan 2022–Present
+- Designed and implemented complexity metrics for over 4,000 interlocal agreements spanning three decades.
+- Spearheaded authorship of the Iowa §28E Coding Manual; led training and quality control protocols for research team.
+Research Assistant, Government Finance Research Center, UIC — Jan 2023–Present
+- Co-authored cross-agency white papers with CMAP, synthesizing statute, ordinance, and administrative datasets.
+- Directed technical documentation and legal reconciliation processes for project deliverables.
+Research Assistant to Prof. Eric Zolt, UCLA School of Law — 2009–2011
+- Conducted legal-economic research on tax regimes and structured financial products; drafted analytic memos.
+TEACHING EXPERIENCE
+Teaching Assistant, UIC — Aug 2021–May 2023
+Courses: PPOL 100, PPOL 230, PPOL 405, PPOL 307
+- Delivered weekly section instruction, facilitated discussion, and guided applied policy writing.
+- Supported undergraduate research and mentored students in analytic memo drafting.
+CIRTL Foundations of College Instruction — UIC, Certification expected 2025
+Economics and Mathematics Tutor — University of Pennsylvania, 2006–2008
+LEGAL & PRO BONO EXPERIENCE
+Skadden, Arps, Slate, Meagher & Flom LLP, New York, NY
+Associate, General Litigation — 2011–2015
+- Argued and briefed fiduciary duty and hostile takeover disputes under Delaware corporate law.
+- Advised Fortune 100 clients on governance structures, bylaws, and board procedure.
+Plaintiffs v. Holder, 15 Civ. 3191 (S.D.N.Y. 2015)
+- Led litigation that compelled USCIS action and secured asylum for women fleeing gender-based violence.
+Does 1–63 v. Holder, 14 Civ. 5446 (S.D.N.Y. 2014)
+- Represented 63 LGBTQ asylum-seekers in landmark class action; negotiated favorable settlement.
+Sanctuary for Families, New York, NY
+Above & Beyond Award, 2016 — honored for life-saving pro bono advocacy.
+
+SERVICE, AWARDS & AFFILIATIONS
+- Michael T. Masin Scholar, UCLA Law
+- Eagle Scout, Boy Scouts of America
+- Member, APSA; APPAM; Law & Society Association
+
