@@ -1,0 +1,16 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+Here’s the fun part.
+
+- Former Skadden litigator turned governance wonk
+- Loves painting Warhammer 40k miniatures (currently: Dark Angels)
+- Proud co-architect of WoW auction house macros
+- Has strong feelings about institutional design, tax incentives, and Herbert Simon
+- Once explained the logic of interlocal agreements while high on Nutella
+
+This site hosts both the polished professional side and the eccentricities underneath. Thanks for visiting.
