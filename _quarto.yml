@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Michael P. Van Hulle"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/YOURUSERNAME
+      - icon: envelope
+        href: mailto:mvanhu2@uic.edu
+
+format:
+  html:
+    theme: [cosmo]
+    css: styles.css
+    toc: true
