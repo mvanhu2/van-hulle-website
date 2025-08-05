@@ -7,5 +7,3 @@ This repository contains the source files for Michael Van Hulle’s academic web
 - Full academic CV
 - Research interests and background
 - Personal interests and non-academic fun
-
-View the site at: https://YOURUSERNAME.github.io/van-hulle-cv/
